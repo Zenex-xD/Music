@@ -25,14 +25,6 @@ START_BUTTON_GROUP = InlineKeyboardMarkup(
             ),
             InlineKeyboardButton(
                 text="🔧 Settings", callback_data="settings_helper"
-            ),                                   
-        ],
-        [
-            InlineKeyboardButton(
-                text="📣 Updates Channel", url="https://t.me/TechZBots"
-            ),
-            InlineKeyboardButton(
-                text="💬 Support Group", url="https://t.me/TechZBots_Support"
             ),                       
         ],        
     ]
@@ -40,11 +32,6 @@ START_BUTTON_GROUP = InlineKeyboardMarkup(
 
 START_BUTTON_PRIVATE = InlineKeyboardMarkup(
     [   [
-            InlineKeyboardButton(
-                text="➕ Add me to Group ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"
-            ),            
-        ],
-        [   
             InlineKeyboardButton(
                 text="📚 Commands", callback_data="command_menu"
             ),                       
