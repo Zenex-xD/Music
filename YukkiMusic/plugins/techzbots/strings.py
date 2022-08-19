@@ -6,15 +6,15 @@ BOT_USERNAME = app.username
 START_TEXT = f"""
 ✨ **Hello MENTION !**
 
-**You can use [{BOT_NAME}](https://t.me/{BOT_USERNAME}) to play Music or Videos in your Group Video Chat.**
+**𝐘ᴏᴜ 𝐂ᴀɴ 𝐔sᴇ [{BOT_NAME}](https://t.me/{BOT_USERNAME}) 𝐓ᴏ 𝐏ʟᴀʏ 𝐌ᴜsɪᴄ 𝐎ʀ 𝐕ɪᴅᴇᴏs 𝐈ɴ 𝐆ʀᴏᴜᴘ 𝐕ᴏɪᴄᴇ 𝐂ʜᴀᴛ.**
 
-💡 **Find out all the Bot's commands and how they work by clicking on the ➤ 📚 Commands button**
+💡 **𝐂ʟɪᴄᴋ 𝐎ɴ 𝐓ʜᴇ 𝐂ᴏᴍᴍᴀɴᴅs button 𝐓ᴏ 𝐒ᴇᴇ 𝐌ʏ 𝐀ʟʟ 𝐂ᴍᴅs**
 """
 
 COMMANDS_TEXT = f"""
 ✨ **Hello MENTION !**
 
-**Click on the buttons below to know my commands.**
+**𝐂ʟɪᴄᴋ 𝐎ɴ 𝐓ʜᴇ 𝐛ᴜᴛᴛᴏɴs 𝐁ᴇʟᴏᴡ 𝐓ᴏ 𝐊ɴᴏᴡ 𝐌ʏ 𝐂ᴏᴍᴍᴀɴᴅs.**
 """
 
 START_BUTTON_GROUP = InlineKeyboardMarkup(
