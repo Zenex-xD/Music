@@ -35,14 +35,6 @@ START_BUTTON_PRIVATE = InlineKeyboardMarkup(
             InlineKeyboardButton(
                 text="📚 Commands", callback_data="command_menu"
             ),                       
-        ],
-        [
-            InlineKeyboardButton(
-                text="📣 Updates Channel", url="https://t.me/TechZBots"
-            ),
-            InlineKeyboardButton(
-                text="💬 Support Group", url="https://t.me/TechZBots_Support"
-            ),                       
         ],        
     ]
 )
@@ -50,26 +42,26 @@ START_BUTTON_PRIVATE = InlineKeyboardMarkup(
 COMMANDS_BUTTON_USER = InlineKeyboardMarkup(
     [   [
             InlineKeyboardButton(
-                text="Admin Commands", callback_data="admin_cmd"
+                text="𝐀ᴅᴍɪɴ 𝐂ᴏᴍᴍᴀɴᴅs", callback_data="admin_cmd"
             ),
             InlineKeyboardButton(
-                text="Bot Commands", callback_data="bot_cmd"
+                text="𝐁ᴏᴛ 𝐂ᴏᴍᴍᴀɴᴅs", callback_data="bot_cmd"
             ),            
         ],
         [
             InlineKeyboardButton(
-                text="Play Commands", callback_data="play_cmd"
+                text="𝐏ʟᴀʏ 𝐂ᴍᴅs", callback_data="play_cmd"
             ),            
             InlineKeyboardButton(
-                text="Extra Commands", url="https://telegra.ph/SiestaXMusic-Commands-03-13-2"
+                text="✗ 𝐄xᴛʀᴀ ✗", url="https://telegra.ph/SiestaXMusic-Commands-03-13-2"
             ),                                   
         ],
         [
             InlineKeyboardButton(
-                text="↪️ Back", callback_data="command_menu"
+                text="◁", callback_data="command_menu"
             ),
             InlineKeyboardButton(
-                text="🔄 Close", callback_data="close_btn"
+                text="✘ 𝐂ʟᴏsᴇ ✘", callback_data="close_btn"
             ),            
         ],                
     ]
@@ -99,10 +91,10 @@ COMMANDS_BUTTON_SUDO = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="↪️ Back", callback_data="command_menu"
+                text="◁", callback_data="command_menu"
             ),
             InlineKeyboardButton(
-                text="🔄 Close", callback_data="close_btn"
+                text="✘ 𝐂ʟᴏsᴇ ✘", callback_data="close_btn"
             ),            
         ],                
     ]
@@ -111,10 +103,10 @@ COMMANDS_BUTTON_SUDO = InlineKeyboardMarkup(
 BACK_BUTTON = InlineKeyboardMarkup(
     [   [
             InlineKeyboardButton(
-                text="↪️ Back", callback_data="advanced_cmd"
+                text="◁", callback_data="advanced_cmd"
             ),
             InlineKeyboardButton(
-                text="🔄 Close", callback_data="close_btn"
+                text="✘ 𝐂ʟᴏsᴇ ✘", callback_data="close_btn"
             ),            
         ],                        
     ]
@@ -128,10 +120,10 @@ SUDO_BACK_BUTTON = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="↪️ Back", callback_data="advanced_cmd"
+                text="◁", callback_data="advanced_cmd"
             ),
             InlineKeyboardButton(
-                text="🔄 Close", callback_data="close_btn"
+                text="✘ 𝐂ʟᴏsᴇ ✘", callback_data="close_btn"
             ),            
         ],                        
     ]
@@ -172,10 +164,10 @@ Auth Users can use admin commands without admin rights in your chat.
 AUTH_BACK_BUTTON = InlineKeyboardMarkup(
     [   [
             InlineKeyboardButton(
-                text="↪️ Back", callback_data="admin_cmd"
+                text="♤ 𝐁ᴀᴄᴋ ♤", callback_data="admin_cmd"
             ),
             InlineKeyboardButton(
-                text="🔄 Close", callback_data="close_btn"
+                text="✘ 𝐂ʟᴏsᴇ ✘", callback_data="close_btn"
             ),            
         ],                        
     ]
@@ -242,10 +234,10 @@ BASIC_TEXT = """
 BASIC_BACK_BUTTON = InlineKeyboardMarkup(
     [   [
             InlineKeyboardButton(
-                text="↪️ Back", callback_data="command_menu"
+                text="♤ 𝐁ᴀᴄᴋ ♤", callback_data="command_menu"
             ),
             InlineKeyboardButton(
-                text="🔄 Close", callback_data="close_btn"
+                text="✘ 𝐂ʟᴏsᴇ ✘", callback_data="close_btn"
             ),            
         ],                        
     ]
@@ -259,10 +251,10 @@ ADMIN_BACK_BUTTON = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="↪️ Back", callback_data="command_menu"
+                text="♤ 𝐁ᴀᴄᴋ ♤", callback_data="command_menu"
             ),
             InlineKeyboardButton(
-                text="🔄 Close", callback_data="close_btn"
+                text="✘ 𝐂ʟᴏsᴇ ✘", callback_data="close_btn"
             ),            
         ],                        
     ]
@@ -271,20 +263,20 @@ ADMIN_BACK_BUTTON = InlineKeyboardMarkup(
 COMMAND_MENU_BUTTON = InlineKeyboardMarkup(
     [   [
             InlineKeyboardButton(
-                text="🔍 Basic Commands", callback_data="basic_cmd"
+                text="⌕ 𝐁ᴀsɪᴄ 𝐂ᴏᴍᴍᴀɴᴅs", callback_data="basic_cmd"
             ),                                   
         ],
         [
             InlineKeyboardButton(
-                text="📚 Advanced Commands", callback_data="advanced_cmd"
+                text="‍‍🌈 𝐀ᴅᴠᴀɴᴄᴇᴅ 𝐂ᴏᴍᴍᴀɴᴅs", callback_data="advanced_cmd"
             ),
         ],
         [
             InlineKeyboardButton(
-                text="↪️ Back", callback_data="open_start_menu"
+                text="♤ 𝐁ᴀᴄᴋ ♤", callback_data="open_start_menu"
             ),
             InlineKeyboardButton(
-                text="🔄 Close", callback_data="close_btn"
+                text="✘ 𝐂ʟᴏsᴇ ✘", callback_data="close_btn"
             ),            
         ],                        
     ]
