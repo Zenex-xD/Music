@@ -205,13 +205,13 @@ lyrics_4 : "Click on the button below and get searched lyrics to avoid long spam
 
 #Ping
 ping_1 : "Pong!!!!"
-ping_2 : " {0} 𝐊ɪᴀʀᴀ𝐗ᴍᴜsɪᴄ Sᴇʀᴠɪᴄᴇ ᴀɴᴀʟʏsɪs"
-ping_3 : "𝐏ɪɴɢ `{1}` ms."
-ping_4 : "𝐔ᴘᴛɪᴍᴇ {2}"
-ping_5 : "𝐒ᴛᴏʀᴀɢᴇ ᴜsᴇᴅ {3}"
-ping_6 : "𝐂ᴘᴜ 𝐋ᴏᴀᴅ {4}"
-ping_7 : "𝐑ᴀᴍ ᴜsᴇᴅ {5}"
-ping_8 : "𝐏ʏ-𝐓ɢᴄᴀʟʟs 𝐏ɪɴɢ `{6}` ms."
+ping_2 : " {0} 𝐊ɪᴀʀᴀ𝐗ᴍᴜsɪᴄ Sᴇʀᴠɪᴄᴇ ᴀɴᴀʟʏsɪs
+ping_3 : 𝐏ɪɴɢ `{1}` ms.
+ping_4 : 𝐔ᴘᴛɪᴍᴇ {2}
+ping_5 : 𝐒ᴛᴏʀᴀɢᴇ ᴜsᴇᴅ {3}
+ping_6 : 𝐂ᴘᴜ 𝐋ᴏᴀᴅ {4}
+ping_7 : 𝐑ᴀᴍ ᴜsᴇᴅ {5}
+ping_8 : 𝐏ʏ-𝐓ɢᴄᴀʟʟs 𝐏ɪɴɢ `{6}` ms."
 
 
 # Song
