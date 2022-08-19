@@ -246,14 +246,14 @@ UNBAN_BUTTON : "🗑 Unban Assistant"
 L_B_1 : "🚀 Checkout Lyrics Now"
 
 # Start
-S_B_1 : "🗒 Commands"
-S_B_2 : "🔧 Settings"
-S_B_3 : "📨 Support"
-S_B_4 : "📨 Channel"
-S_B_5 : "✚ Add me to your Group"
-S_B_6 : "💡 Git Repo"
-S_B_7 : "👤 Bot Owner"
-S_B_8 : "🔎 How to Use? Commands Menu."
+S_B_1 : "🗒 𝐂ᴏᴍᴍᴀɴᴅs"
+S_B_2 : "✭ 𝐒ᴇᴛᴛɪɴɢs"
+S_B_3 : "♡ 𝐒ᴜᴘᴘᴏʀᴛ"
+S_B_4 : "㋰ 𝐂ʜᴀɴɴᴇʟ"
+S_B_5 : "♤ 𝐀ᴅᴅ 𝐌ᴇ 𝐓ᴏ 𝐆ʀᴏᴜᴘ ♤"
+S_B_6 : "☻ 𝐆ɪᴛ 𝐑ᴇᴘᴏ"
+S_B_7 : "🖤 𝐁ᴏᴛ 𝐎ᴡɴᴇʀ"
+S_B_8 : "✦ 𝐇ᴏᴡ 𝐓ᴏ 𝐔sᴇ? 𝐂ᴏᴍᴍᴀɴᴅs 𝐌ᴇɴᴜ."
 
 #Help 
 H_B_1 : "Admin Commands"
@@ -269,10 +269,10 @@ PM_B_2 : "InlineMarkup"
 PM_B_3 : "ChannelPlay"
 
 #Play
-P_B_1 : "🎵 Play Audio"
-P_B_2 : "🎥 Play Video"
-P_B_3 : "🏮 Start Live Stream"
-P_B_4 : "🎵 Play Playlist"
+P_B_1 : "♬ Play Audio"
+P_B_2 : "☊ Play Video"
+P_B_3 : "❣ Start Live Stream"
+P_B_4 : "♫ Play Playlist"
 
 #Playlist
 PL_B_1 : "🚀 Play Playlist"
@@ -283,8 +283,8 @@ PL_B_5 : "🔄 Del Whole Playlist"
 PL_B_6 : "↗️ Delete Playlist"
 PL_B_7 : "❗️ Yes, I'm sure. Delete it"
 PL_B_8 : "🔢 Play Top 10"
-PL_B_9 : "🤖 Play Global Top 10 Tracks"
-PL_B_10 : "🏘 Play Group's Top 10 Tracks"
+PL_B_9 : "➤ Play Global Top 10 Tracks"
+PL_B_10 : "➥ Play Group's Top 10 Tracks"
 PL_B_11 : "👤 Play Personal Top 10 Tracks"
 
 #Settings
