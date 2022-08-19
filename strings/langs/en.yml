@@ -205,13 +205,13 @@ lyrics_4 : "Click on the button below and get searched lyrics to avoid long spam
 
 #Ping
 ping_1 : "Pong!!!!"
-ping_2 : " {0} 𝐊ɪᴀʀᴀ𝐗ᴍᴜsɪᴄ Sᴇʀᴠɪᴄᴇ ᴀɴᴀʟʏsɪs
- 𝐏ɪɴɢ `{1}` ms.
- 𝐔ᴘᴛɪᴍᴇ {2}
- 𝐒ᴛᴏʀᴀɢᴇ ᴜsᴇᴅ {3}
- 𝐂ᴘᴜ 𝐋ᴏᴀᴅ {4}
- 𝐑ᴀᴍ ᴜsᴇᴅ {5}
- 𝐏ʏ-𝐓ɢᴄᴀʟʟs 𝐏ɪɴɢ `{6}` ms."
+ping_2 : " {0} 𝐊ɪᴀʀᴀ𝐗ᴍᴜsɪᴄ Sᴇʀᴠɪᴄᴇ ᴀɴᴀʟʏsɪs"
+ping_3 : "𝐏ɪɴɢ `{1}` ms."
+ping_4 : "𝐔ᴘᴛɪᴍᴇ {2}"
+ping_5 : "𝐒ᴛᴏʀᴀɢᴇ ᴜsᴇᴅ {3}"
+ping_6 : "𝐂ᴘᴜ 𝐋ᴏᴀᴅ {4}"
+ping_7 : "𝐑ᴀᴍ ᴜsᴇᴅ {5}"
+ping_8 : "𝐏ʏ-𝐓ɢᴄᴀʟʟs 𝐏ɪɴɢ `{6}` ms."
 
 
 # Song
@@ -478,3 +478,4 @@ sug_26 : "You can change language of the bot to available languages for easy und
 sug_27 : "Bot has a feature called **Force Play**.\n\n**Force Play** stops the playing track on voice chat and starts playing the searched track instantly without disturbing/clearing queue.\n\nCommand: /playforce"
 sug_28 : "You know you play directly from spotify's top playlist using /browse command. \n\nChoose category and then the playlist you want to play"
 sug_29 : "You know you can get approved from any sudo user of the bot and remove all your limits from bot :)\n\nCheck sudo list using /sudolist"
+
