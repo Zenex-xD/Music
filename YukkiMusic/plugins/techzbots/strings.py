@@ -6,9 +6,6 @@ BOT_USERNAME = app.username
 START_TEXT = f"""
 ✨ **Hello MENTION !**
 
-**𝐘ᴏᴜ 𝐂ᴀɴ 𝐔sᴇ [{BOT_NAME}](https://t.me/{BOT_USERNAME}) 𝐓ᴏ 𝐏ʟᴀʏ 𝐌ᴜsɪᴄ 𝐎ʀ 𝐕ɪᴅᴇᴏs 𝐈ɴ 𝐆ʀᴏᴜᴘ 𝐕ᴏɪᴄᴇ 𝐂ʜᴀᴛ.**
-
-💡 **𝐂ʟɪᴄᴋ 𝐎ɴ 𝐓ʜᴇ 𝐂ᴏᴍᴍᴀɴᴅs button 𝐓ᴏ 𝐒ᴇᴇ 𝐌ʏ 𝐀ʟʟ 𝐂ᴍᴅs**
 """
 
 COMMANDS_TEXT = f"""
@@ -21,10 +18,10 @@ START_BUTTON_GROUP = InlineKeyboardMarkup(
     [   
         [
             InlineKeyboardButton(
-                text="📚 Commands", callback_data="command_menu"
+                text="⚡ Cᴏᴍᴍᴀɴᴅs", callback_data="command_menu"
             ),
             InlineKeyboardButton(
-                text="🔧 Settings", callback_data="settings_helper"
+                text="🔧 Sᴇᴛᴛɪɴɢs", callback_data="settings_helper"
             ),                       
         ],        
     ]
@@ -33,7 +30,7 @@ START_BUTTON_GROUP = InlineKeyboardMarkup(
 START_BUTTON_PRIVATE = InlineKeyboardMarkup(
     [   [
             InlineKeyboardButton(
-                text="📚 Commands", callback_data="command_menu"
+                text="𝐀ᴅᴅ ᴍᴇ", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"
             ),                       
         ],        
     ]
@@ -70,23 +67,23 @@ COMMANDS_BUTTON_USER = InlineKeyboardMarkup(
 COMMANDS_BUTTON_SUDO = InlineKeyboardMarkup(
     [   [
             InlineKeyboardButton(
-                text="Admin Commands", callback_data="admin_cmd"
+                text="𝐀ᴅᴍɪɴ 𝐂ᴏᴍᴍᴀɴᴅs", callback_data="admin_cmd"
             ),
             InlineKeyboardButton(
-                text="Bot Commands", callback_data="bot_cmd"
+                text="𝐁ᴏᴛ 𝐂ᴏᴍᴍᴀɴᴅs", callback_data="bot_cmd"
             ),            
         ],
         [
             InlineKeyboardButton(
-                text="Play Commands", callback_data="play_cmd"
+                text="𝐏ʟᴀʏ 𝐂ᴏᴍᴍᴀɴᴅs", callback_data="play_cmd"
             ),
             InlineKeyboardButton(
-                text="Sudo Commands", url="https://telegra.ph/SiestaXMusic-Commands-03-13"
+                text="𝐒ᴜᴅᴏ 𝐂ᴏᴍᴍᴀɴᴅs", url="https://telegra.ph/SiestaXMusic-Commands-03-13"
             ),            
         ],
         [
             InlineKeyboardButton(
-                text="Extra Commands", url="https://telegra.ph/SiestaXMusic-Commands-03-13-2"
+                text="𝐄xᴛʀᴀ 𝐂ᴏᴍᴍᴀɴᴅs", url="https://telegra.ph/SiestaXMusic-Commands-03-13-2"
             ),                                   
         ],
         [
@@ -246,7 +243,7 @@ BASIC_BACK_BUTTON = InlineKeyboardMarkup(
 ADMIN_BACK_BUTTON = InlineKeyboardMarkup(
     [   [
             InlineKeyboardButton(
-                text="Auth Commands", callback_data="auth_cmds"
+                text="𝐀ᴜᴛʜ Cᴏᴍᴍᴀɴᴅs", callback_data="auth_cmds"
             ),                        
         ],
         [
