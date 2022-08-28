@@ -50,7 +50,7 @@ COMMANDS_BUTTON_USER = InlineKeyboardMarkup(
                 text="𝐏ʟᴀʏ 𝐂ᴍᴅs", callback_data="play_cmd"
             ),            
             InlineKeyboardButton(
-                text="✗ 𝐄xᴛʀᴀ ✗", url="https://telegra.ph/SiestaXMusic-Commands-03-13-2"
+                text="✗ 𝐄xᴛʀᴀ ✗", url="https://telegra.ph/𓆩𓆪-𓆩𝑰𝑵𝑭𝑬𝑹𝑵𝑼𝑴𓆪𓆩𝕯𝜜𝕯𝕯𝒀𓆪-08-28"
             ),                                   
         ],
         [
@@ -78,12 +78,12 @@ COMMANDS_BUTTON_SUDO = InlineKeyboardMarkup(
                 text="𝐏ʟᴀʏ 𝐂ᴏᴍᴍᴀɴᴅs", callback_data="play_cmd"
             ),
             InlineKeyboardButton(
-                text="𝐒ᴜᴅᴏ 𝐂ᴏᴍᴍᴀɴᴅs", url="https://telegra.ph/SiestaXMusic-Commands-03-13"
+                text="𝐒ᴜᴅᴏ 𝐂ᴏᴍᴍᴀɴᴅs", url="https://telegra.ph/𝐖ʜᴏ-𝐂ᴀʀᴇs-08-28-2"
             ),            
         ],
         [
             InlineKeyboardButton(
-                text="𝐄xᴛʀᴀ 𝐂ᴏᴍᴍᴀɴᴅs", url="https://telegra.ph/SiestaXMusic-Commands-03-13-2"
+                text="𝐄xᴛʀᴀ 𝐂ᴏᴍᴍᴀɴᴅs", url="https://telegra.ph/𓆩𓆪-𓆩𝑰𝑵𝑭𝑬𝑹𝑵𝑼𝑴𓆪𓆩𝕯𝜜𝕯𝕯𝒀𓆪-08-28"
             ),                                   
         ],
         [
@@ -112,7 +112,7 @@ BACK_BUTTON = InlineKeyboardMarkup(
 SUDO_BACK_BUTTON = InlineKeyboardMarkup(
     [   [
             InlineKeyboardButton(
-                text="Sudo Commands", url="https://telegra.ph/SiestaXMusic-Commands-03-13"
+                text="Sudo Commands", url="https://telegra.ph/𝐖ʜᴏ-𝐂ᴀʀᴇs-08-28-2"
             ),                        
         ],
         [
