@@ -28,7 +28,7 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://Zeusop:zeusop05@cluster0.ps
 
 if MONGO_DB_URI != None:
     MONGO_DB_URI = MONGO_DB_URI.strip()
-if MONGO_DB_URI == "mongodb+srv://Zeusop:zeusop05@cluster0.pspgfqk.mongodb.net/?retryWrites=true&w=majority":
+if MONGO_DB_URI == "mongodb+srv://zeus:ZEUS@cluster0.bkwpngj.mongodb.net/?retryWrites=true&w=majority":
     MONGO_DB_URI = None
 
 # Custom max audio(music) duration for voice chat. set DURATION_LIMIT in variables with your own time(mins), Default to 60 mins.
@@ -94,7 +94,7 @@ YOUTUBE_DOWNLOAD_EDIT_SLEEP = int(getenv("YOUTUBE_EDIT_SLEEP", "3"))
 TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "5"))
 
 # Your Github Repo.. Will be shown on /start Command
-GITHUB_REPO = "https://github.com/zeusop01/KiaraxMusic"
+GITHUB_REPO = "https://github.com/kiaraXzeus/KiaraxMusic"
 
 # Spotify Client.. Get it from https://developer.spotify.com/dashboard
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "817ef3b667ae41fa904568b4eeaee96d")
