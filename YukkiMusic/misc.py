@@ -64,7 +64,6 @@ def sudo():
         sudoers = [] if not sudoers else sudoers["sudoers"]
         for user_id in OWNER:
             SUDOERS.add(user_id)
-            
             if user_id not in sudoers:
                 sudoers.append(user_id)
                 sudoersdb.update_one(
