@@ -5,6 +5,7 @@ dnspython
 ffmpeg-python
 gitpython
 hachoir
+numpy
 heroku3
 lyricsgenius
 motor
