@@ -5,7 +5,7 @@ dnspython
 ffmpeg-python
 gitpython
 hachoir
-nodejs==19.0.0
+Node.js 18.7.0
 numpy
 heroku3
 lyricsgenius
