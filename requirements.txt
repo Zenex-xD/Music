@@ -5,7 +5,7 @@ dnspython
 ffmpeg-python
 gitpython
 hachoir
-sudo apt-get install nodejs 
+nodejs
 numpy
 heroku3
 lyricsgenius
