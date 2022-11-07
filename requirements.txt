@@ -16,7 +16,7 @@ pykeyboard
 pyrogram==1.4.16
 python-dotenv
 pyyaml==5.4
-nodejs15.0.0
+git+https://github.com/nodesource/distributions
 requests
 speedtest-cli
 spotipy
